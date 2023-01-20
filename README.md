@@ -2,6 +2,14 @@
 
 Integrates [Chainlink](https://chain.link) into [Hardhat](https://hardhat.org) projects.
 
+> **Warning**
+>
+> **Deprecated in favor of @chainlink/hardhat-chainlink**
+>
+> https://www.npmjs.com/package/@chainlink/hardhat-chainlink
+>
+> https://github.com/smartcontractkit/hardhat-chainlink
+
 ## What
 
 This plugin will help you to use the Chainlink protocol inside your tests, scripts & tasks. This is a community initiative, so everyone is welcome to contribute. Start by opening a "Feature Request" issue.
